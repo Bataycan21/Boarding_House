@@ -77,8 +77,7 @@ class ApartmentManager {
         this.apartments = new ArrayList<>();
         loadApartments();
         if (apartments.isEmpty()) {
-            apartments.add(new Apartment("101", "Alice Smith", 1200.00, true, "Lease agreement for Alice Smith."));
-            apartments.add(new Apartment("102", "Bob Johnson", 1350.00, true, "Maintenance records for unit 102."));
+            apartments.add(new Apartment("101", "Steph Curry", 20000.00, true, "Arriving soon."));
         }
     }
 

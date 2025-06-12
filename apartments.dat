@@ -1,2 +1,5 @@
-101,Alice Smith,1200.0,true,Lease agreement for Alice Smith.
-102,Bob Johnson,1350.0,true,Maintenance records for unit 102.
+101,Steph Curry,20000.0,true,
+102,Lebron James,20000.0,true,
+103,,20000.0,false,
+104,Pablo Escobar,20000.0,true,
+105,,20000.0,false,
